@@ -1,0 +1,6 @@
+Collecting chatterbot-corpus
+  Using cached https://files.pythonhosted.org/packages/ed/19/f8b41daf36fe4b0f43e283a820362ffdb2c1128600ab4ee187e84262fa4d/chatterbot_corpus-1.2.0-py2.py3-none-any.whl
+Collecting PyYAML<4.0,>=3.12 (from chatterbot-corpus)
+  Using cached https://files.pythonhosted.org/packages/bf/96/d02ef8e1f3073e07ffdc240444e5041f403f29c0775f9f1653f18221082f/PyYAML-3.13-cp37-cp37m-win_amd64.whl
+Installing collected packages: PyYAML, chatterbot-corpus
+  Found existing installation: PyYAML 5.3.1
